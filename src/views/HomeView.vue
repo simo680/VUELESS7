@@ -10,6 +10,7 @@
               navigate() {
                      // this.$router.push('/404')
                      this.$router.replace('/404')
+                     // this.$router.go(-1)
                      }
        }
   }
